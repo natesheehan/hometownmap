@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "name": "My Home",
+        "GoogleEarthLink": "https://earth.google.com/web/@50.44295101,-3.71107675,34.18747985a,118.87793029d,35y,162.63045365h,44.99666371t,-0r/data=Ck0aSxJFCiUweDQ4NmQxZDI2MzU5NjRjOGI6MHg5YTgxNmVlOGY4Y2YxY2IyGZifG5qyOElAIRaiQ-BIsA3AKgo5IERyb3JpZGdlGAIgAQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7118339538574223,
+          50.44326708047265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "school",
+        "googleEarthLink": "https://earth.google.com/web/@50.43698597,-3.69395318,19.37773213a,643.77580803d,35y,62.54917773h,45.00000081t,0r/data=CmQaYhJcCiUweDQ4NmQxY2MyZjQzYWYzODU6MHhhNmRkMDExNWM0NThhNGM0KjNLaW5nIEVkd2FyZCBWSQpDb21tdW5pdHkgQ29sbGVnZQpUZW1wb3JhcmlseSBjbG9zZWQYAiAB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6941528320312496,
+          50.43791004015376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "police",
+        "googleEarthLink": "https://earth.google.com/web/search/dartington+hall/@50.45071711,-3.69426317,49.10511508a,227.29112812d,35y,359.9999926h,0t,0r/data=CnAaRhJACiUweDQ4NmQxY2NkYzEzZjNlNGQ6MHg5MTYzYjRiZGM1NTNmM2U2KhdEYXJ0aW5ndG9uIEhhbGwgR2FyZGVucxgCIAEiJgokCe5X_gH0OUlAER8EbnXYOUlAGX1j2XVLdg3AIfZ0XBc1ew3A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6933374404907227,
+          50.44996252824478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "googleEarthLink": "https://earth.google.com/web/@50.4367387,-3.7006402,35.69746856a,643.65160296d,35y,0h,45t,0r/data=ClAaThJICiUweDQ4NmQxY2RjMzlmMTNiOGY6MHgyZTZjNmFiMDc5YTBkYTM1GeOywA3nN0lAIWsayj_pmg3AKg1CYXJyYWNrcyBIaWxsGAIgASgC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7041521072387695,
+          50.4389213645994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "harbor",
+        "googleEarthLink": "https://earth.google.com/web/@50.45233823,-3.68396047,5.61001887a,142.6285958d,35y,-0.00185021h,0.13555776t,359.99999853r/data=Ck0aSxJFCiUweDQ4NmQxY2MwNDhlNTdhMWY6MHgyYzNmZjk4MzdiZTIyOTdmGbw5XKs9OElAIStab4p9iA3AKgpSaXZlciBEYXJ0GAEgAQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.714923858642578,
+          50.45963509380784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "shop",
+        "googleEarthLink": "https://earth.google.com/web/@50.40910673,-3.65210748,43.83882233a,450.54541376d,35y,76.2228686h,44.99876951t,0r/data=ClEaTxJJCiUweDQ4NmQxYjg3MjQ0NjlkNzM6MHhiM2RlMDk5MTgwMTE1OTA0Ge7E9qRdNElAIaad9YSANw3AKg5TaGFycGhhbSBIb3VzZRgCIAE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.671579360961914,
+          50.41201824668217
+        ]
+      }
+    }
+  ]
+}
